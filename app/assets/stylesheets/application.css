@@ -11,3 +11,15 @@
  *= require_self
  *= require_tree .
  */
+
+.signup-form { 
+width: 250px 
+} 
+
+.button-signup {
+  background-color: #EA7A58;
+  border: none !important;
+  font-family: @futuraextended;
+  color: white;
+  padding: 6px 13px;
+  }
